@@ -11,7 +11,7 @@ metadata:
   labels:
     app: myweb
   name: myweb
-  namespace: pipeline-demo
+  namespace: jenkins
 spec:
   replicas: 1
   selector:
